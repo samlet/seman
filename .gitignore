@@ -1,4 +1,6 @@
 seman
 **/store
+.idea/
+**/*.bleve/
 
 
